@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Plant Forest",
+		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra","Desert","Snow"],
+		"requiredNearbyImprovedResources": ["Marble","Stone","Obsidian"],
+		"turnsToBuild": 7,
+		"techRequired": "Fertilizer",
+		"uniques": [
+			"Can be built outside your borders",
+			"Turn this tile into a [Forest] tile",
+			"Does not need removal of [Trading post] <hidden from users>",
+			//"Cannot be built on [Desert] tiles <hidden from users>",
+			//"Cannot be built on [Snow] tiles <hidden from users>"
+		        ],
+		"shortcutkey": "P"
+	}
+	{
+		"name": "Plant Jungle",
+		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra","Desert","Snow"],
+		"turnsToBuild": 10,
+		"techRequired": "Fertilizer",
+		"uniques": [
+			"Can be built outside your borders",
+			"Turn this tile into a [Jungle] tile",
+			"Does not need removal of [Trading post] <hidden from users>",
+			//"Cannot be built on [Desert] tiles <hidden from users>",
+			//"Cannot be built on [Snow] tiles <hidden from users>"
+		        ],
+		"shortcutkey": "P"
+	}
+	{
+		"name": "Desertify",
+		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra","Snow"],
+		"turnsToBuild": 7,
+		"techRequired": "Combustion",
+		"uniques": [
+			"Can be built outside your borders",
+			"Turn this tile into a [Desert] tile",
+			"Does not need removal of [Trading post] <hidden from users>",
+			"Cannot be built on [Desert] tiles <hidden from users>",
+			//"Cannot be built on [Snow] tiles <hidden from users>"
+		        ],
+		"shortcutkey": "P"
+	}
+]
