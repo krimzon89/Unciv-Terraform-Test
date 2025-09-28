@@ -44,12 +44,12 @@
 		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Tundra"],
 		"turnsToBuild": 5,
 		"techRequired": "Flight",
-		"numberOfAirSlots": 8,
 		"defenseModifier": 25,
 		"canPillage": true,
 		"Uniques": [
 			"Cannot be built on [Desert] tiles <hidden from users>",
-			"Cannot be built on [Snow] tiles <hidden from users>"
+			"Cannot be built on [Snow] tiles <hidden from users>",
+			"Can carry [8] [Air] units"
 		],
 		"shortcutkey": "P"
 	}
