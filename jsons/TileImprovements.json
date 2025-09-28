@@ -40,7 +40,7 @@
 		"shortcutkey": "P"
 	}
 	{
-	"name": "Air_Base",
+	"name": "AirBase",
 		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Tundra"],
 		"turnsToBuild": 5,
 		"techRequired": "Flight",
