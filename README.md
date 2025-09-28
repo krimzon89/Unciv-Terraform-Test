@@ -1,5 +1,6 @@
-# Unciv-mod-example
+# Collection of Additions
 
-An example mod for Unciv, that adds one new Civilization.
+A simple test mod adding a few simple changes.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+1. Adds ability to turn tiles into grassland, plains, or desert.
+2. Adds an Airbase improvement
